@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hi, I'm Jay<br>Currently Working on MERN Stack<br><br>Tech Stack:<br><br>Frontend: React, HTML, CSS, Tailwind CSS<br>Backend: JavaScript, Node.js, Express.js<br>Database: MongoDB<br>CMS & Other Tools: WordPress<br><br>Get in touch:  jsharma.dbg@gmail.com <br><br>
 
 
