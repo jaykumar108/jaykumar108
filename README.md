@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Full+Stack+Developer;MERN+Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;MERN+Stack+Developer;MERN+Stack+Developer" alt="Typing SVG" />
   </h1>
   
   <img src="https://github-profile-trophy.vercel.app/?username=jaykumar108&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
@@ -88,13 +88,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaykumar108&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=jaykumar108&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaykumar108&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?
 
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=jaykumar108&icon=0&color=0" alt="Profile Views" />
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
