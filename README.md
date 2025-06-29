@@ -53,6 +53,9 @@
 
 ## 🌐 Socials:
 <div align="center">
+  <a href="https://portfoliojaysharma.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
+  </a>
   <a href="https://www.instagram.com/explore_withjay/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -88,7 +91,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaykumar108&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=jaykumar108&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?
 
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
